@@ -1,18 +1,235 @@
 {
   "80d70836-6e08-477b-a360-1b2eb2198720": {
-    "prefix": "§a\uE001 §8| §eH§rT2 §7(2.210) §cNA ",
+    "prefix": "§c- §a\uE001 §8| §eH§rT2 §7(2.210) §cNA ",
     "color": 16575619
   },
   "f568a3be-5c9b-4346-bb01-75dffd7265e1": {
-    "prefix": "§a\uE001 §8| §5L§rT5 §7(5.720) §cNA ",
+    "prefix": "§c- §a\uE001 §8| §5L§rT5 §7(5.720) §cNA ",
     "color": 13189321
   },
   "397690ab-cdaa-4a5b-9f77-6d01858b93f4": {
-    "prefix": "§a\uE001 §8| §rL§6T3 §7(3.710) §aSA ",
+    "prefix": "§c- §a\uE001 §8| §rL§6T3 §7(3.710) §aSA ",
     "color": 16364884
   },
   "efd2b8e2-927b-4e26-b34d-35c99c1a53f6": {
-    "prefix": "§a\uE001 §8| §rL§6T3 §7(3.975) §8?? ",
+    "prefix": "§c- §a\uE001 §8| §rL§6T3 §7(3.975) §8?? ",
     "color": 16364884
-  }
+  },
+  {
+  "9d7a851b-1b90-4010-8e3e-56d6ea776bf4": {
+    "prefix": "§a\uE001 §8| §bH§rT1 §7(1.315) §cNA ",
+    "color": 8189433
+  },
+  "640d315f-b911-466c-817a-0ab0e6424e5f": {
+    "prefix": "§a\uE001 §8| §bH§rT1 §7(1.365) §aSA ",
+    "color": 8189433
+  },
+  "22ad3d59-fa3f-438b-9d2c-30b50cda3104": {
+    "prefix": "§a\uE001 §8| §bH§rT1 §7(1.385) §eOC ",
+    "color": 8189433
+  },
+  "080221d7-e040-46da-a26f-b09970afa9ac": {
+    "prefix": "§a\uE001 §8| §bH§rT1 §7(1.450) §eOC ",
+    "color": 8189433
+  },
+  "ce87a06e-3b63-4f56-84b4-e8e092a38cef": {
+    "prefix": "§a\uE001 §8| §bL§rT1 §7(1.775) §dAS ",
+    "color": 8189433
+  },
+  "6cbae89d-ac1b-4762-87d1-8e8407d8ee7e": {
+    "prefix": "§a\uE001 §8| §bL§rT1 §7(1.780) §cNA ",
+    "color": 8189433
+  },
+  "332862e2-9017-433f-b13e-e3d044bc2b59": {
+    "prefix": "§a\uE001 §8| §bL§rT1 §7(1.780) §dAS ",
+    "color": 8189433
+  },
+  "f6782205-6ae4-4d5e-9738-f6e8e8ec179f": {
+    "prefix": "§a\uE001 §8| §bL§rT1 §7(1.830) §9EU ",
+    "color": 8189433
+  },
+  "e68aba39-8186-495a-9834-cd95de004293": {
+    "prefix": "§a\uE001 §8| §bL§rT1 §7(1.895) §9EU ",
+    "color": 8189433
+  },
+  "e9cb656f-d27f-49c2-8a0d-d2259aa7c7b8": {
+    "prefix": "§a\uE001 §8| §bL§rT1 §7(1.910) §cNA ",
+    "color": 8189433
+  },
+  "2451d11a-b291-404a-a438-ce1edfd51b40": {
+    "prefix": "§a\uE001 §8| §bL§rT1 §7(1.960) §9EU ",
+    "color": 8189433
+  },
+  "909f26e8-ef36-4371-b96a-4eb8cc5c37c5": {
+    "prefix": "§a\uE001 §8| §eL§rT2 §7(2.665) §cNA ",
+    "color": 16575619
+  },
+  "bc147047-0e98-45b8-8224-f7f0b4911f2e": {
+    "prefix": "§a\uE001 §8| §eL§rT2 §7(2.675) §dAS ",
+    "color": 16575619
+  },
+  "deb0a340-e9ad-4cba-b566-5969caa6df46": {
+    "prefix": "§a\uE001 §8| §eL§rT2 §7(2.935) §cNA ",
+    "color": 16575619
+  },
+  "87504e33-feaa-4713-87b0-5628a68f74e7": {
+    "prefix": "§a\uE001 §8| §eL§rT2 §7(2.960) §9EU ",
+    "color": 16575619
+  },
+  "3914f30f-27bc-4c17-a4bd-df256ca809c3": {
+    "prefix": "§a\uE001 §8| §rH§6T3 §7(3.000) §aSA ",
+    "color": 16364884
+  },
+  "6874696b-7b99-4a4b-8dd6-5fa87cf90e7e": {
+    "prefix": "§a\uE001 §8| §rH§6T3 §7(3.044) §aSA ",
+    "color": 16364884
+  },
+  "6bc43b63-8299-4ee9-bdb6-85cb51222e98": {
+    "prefix": "§a\uE001 §8| §rH§6T3 §7(3.078) §cNA ",
+    "color": 16364884
+  },
+  "8ec4fa15-4db2-4d65-94a8-7363b3f2f16f": {
+    "prefix": "§a\uE001 §8| §rH§6T3 §7(3.200) §9EU ",
+    "color": 16364884
+  },
+  "b1946329-657c-451a-b9ca-bca4632aa01f": {
+    "prefix": "§a\uE001 §8| §rH§6T3 §7(3.356) §9EU ",
+    "color": 16364884
+  },
+  "e0f6a6eb-1f22-4713-aa6b-c6fe6feb2dac": {
+    "prefix": "§a\uE001 §8| §rH§6T3 §7(3.466) §6AF ",
+    "color": 16364884
+  },
+  "401dfb2c-a814-415a-afe4-edf90814443f": {
+    "prefix": "§a\uE001 §8| §rH§6T3 §7(3.378) §9EU ",
+    "color": 16364884
+  },
+  "40b3ce07-85f8-4f36-9b14-84af372f7bad": {
+    "prefix": "§a\uE001 §8| §rH§6T3 §7(3.200) §aSA ",
+    "color": 16364884
+  },
+  "78c50e9e-0eb9-43c3-b751-eeb6c90abbb8": {
+    "prefix": "§a\uE001 §8| §rH§6T3 §7(3.144) §eOC ",
+    "color": 16364884
+  },
+  "377cf9fb-aa34-4225-8e97-137d4f080bb8": {
+    "prefix": "§a\uE001 §8| §rH§6T3 §7(3.378) §cNA ",
+    "color": 16364884
+  },
+  "100c181a-dcc5-4735-9e69-f8b64f5ffa84": {
+    "prefix": "§a\uE001 §8| §rH§6T3 §7(3.400) §9EU ",
+    "color": 16364884
+  },
+  "9d680f07-c0ac-4d28-97ef-5665e1473335": {
+    "prefix": "§a\uE001 §8| §rH§6T3 §7(3.444) §eOC ",
+    "color": 16364884
+  },
+  "648ac55b-1dbe-46eb-99dd-cae8a374b402": {
+    "prefix": "§a\uE001 §8| §rL§6T3 §7(3.400) §aSA ",
+    "color": 16364884
+  },
+  "bd2bc8c0-bb35-4bfb-bf3d-76a9c9290038": {
+    "prefix": "§a\uE001 §8| §rL§6T3 §7(3.577) §9EU ",
+    "color": 16364884
+  },
+  "6564f28f-6646-4e0f-9507-0fc48c6911b7": {
+    "prefix": "§a\uE001 §8| §rL§6T3 §7(3.644) §eOC ",
+    "color": 16364884
+  },
+  "00b42fd6-26a7-4a59-ae31-7a0a871245c1": {
+    "prefix": "§a\uE001 §8| §rL§6T3 §7(3.667) §9EU ",
+    "color": 16364884
+  },
+  "02d2663b-2503-42a2-8ba2-42638a2b2975": {
+    "prefix": "§a\uE001 §8| §rL§6T3 §7(3.777) §9EU ",
+    "color": 16364884
+  },
+  "55bd3f7d-7496-47b5-adfe-24ccf551ab38": {
+    "prefix": "§a\uE001 §8| §rL§6T3 §7(3.811) §cNA ",
+    "color": 16364884
+  },
+  "67d9e576-b040-4f00-8929-c926410fbffc": {
+    "prefix": "§a\uE001 §8| §rL§6T3 §7(3.822) §9EU ",
+    "color": 16364884
+  },
+  "116ebd47-b378-486e-b11e-8e81524899d0": {
+    "prefix": "§a\uE001 §8| §rL§6T3 §7(3.878) §9EU ",
+    "color": 16364884
+  },
+  "c50993b4-eb2c-4c01-b1a8-5d1643f1fb2c": {
+    "prefix": "§a\uE001 §8| §rL§6T3 §7(3.922) §dAS ",
+    "color": 16364884
+  },
+  "02c0130e-253f-48fb-8682-3c8da90ee38f": {
+    "prefix": "§a\uE001 §8| §dH§rT4 §7(4.033) §9EU ",
+    "color": 16351737
+  },
+  "9a958e25-4581-4581-921e-2f8ff08b3746": {
+    "prefix": "§a\uE001 §8| §dH§rT4 §7(4.033) §cNA ",
+    "color": 16351737
+  },
+  "5aa4eca3-caa9-4934-a81e-003e71b05a73": {
+    "prefix": "§a\uE001 §8| §dH§rT4 §7(4.122) §dAS ",
+    "color": 16351737
+  },
+  "b10d9a28-a8fb-42ed-a6d0-9982273f1eac": {
+    "prefix": "§a\uE001 §8| §dH§rT4 §7(4.256) §cNA ",
+    "color": 16351737
+  },
+  "80c5ba1f-8f84-462f-8e47-dfe5efb28321": {
+    "prefix": "§a\uE001 §8| §dH§rT4 §7(4.300) §cNA ",
+    "color": 16351737
+  },
+  "19c1e4a5-8da9-4cca-9bc4-c1d068a485d1": {
+    "prefix": "§a\uE001 §8| §dH§rT4 §7(4.322) §dAS ",
+    "color": 16351737
+  },
+  "8c7c2dd2-ede5-4fc1-8244-2d3dafcf3972": {
+    "prefix": "§a\uE001 §8| §dL§rT4 §7(4.533) §9EU ",
+    "color": 16351737
+  },
+  "adeb6d26-1e25-40c9-a4c3-b446a14ff80b": {
+    "prefix": "§a\uE001 §8| §dL§rT4 §7(4.778) §9EU ",
+    "color": 16351737
+  },
+  "d974abc7-7191-400e-bf45-2c1c6bac7533": {
+    "prefix": "§a\uE001 §8| §dL§rT4 §7(4.822) §dAS ",
+    "color": 16351737
+  },
+  "320daff6-6a4d-4e4e-9756-a3ed2e12c255": {
+    "prefix": "§a\uE001 §8| §dL§rT4 §7(4.844) §cNA ",
+    "color": 16351737
+  },
+  "783dfc32-8dd0-4c42-8597-adbbfa39594f": {
+    "prefix": "§a\uE001 §8| §dL§rT4 §7(4.967) §9EU ",
+    "color": 16351737
+  },
+  "60163603-a2ac-4fe4-bf48-4953f004d090": {
+    "prefix": "§a\uE001 §8| §5H§rT5 §7(5.056) §cNA ",
+    "color": 13189321
+  },
+  "874f375d-0d5e-4028-882d-40615dd2bc44": {
+    "prefix": "§a\uE001 §8| §5H§rT5 §7(5.100) §cNA ",
+    "color": 13189321
+  },
+  "bbed9c29-3bde-4cfd-904e-8056fd824219": {
+    "prefix": "§a\uE001 §8| §5H§rT5 §7(5.222) §9EU ",
+    "color": 13189321
+  },
+  "5034dcac-dbb6-48cb-9cd2-32d64cc3b5ca": {
+    "prefix": "§a\uE001 §8| §5H§rT5 §7(5.377) §9EU ",
+    "color": 13189321
+  },
+  "c6cb3644-e58f-4a29-85c8-c6c33322c9c4": {
+    "prefix": "§a\uE001 §8| §5H§rT5 §7(5.422) §aSA ",
+    "color": 13189321
+  },
+  "e40e4374-57fa-4b39-aca1-0920aa82a6e4": {
+    "prefix": "§a\uE001 §8| §5H§rT5 §7(5.489) §aSA ",
+    "color": 13189321
+  },
+  "beff58e6-28bb-4975-ab0e-3de3d4d904b3": {
+    "prefix": "§a\uE001 §8| §5H§rT5 §7(5.067) §9EU ",
+    "color": 13189321
+  },
 }
